@@ -1,8 +1,8 @@
 [{
   "action": "connect",
-  "from": "19186000643",
+  "from": "12013668431",
   "endpoint": [{
-    "type": "phone",
-    "number": "917204388368"
+    "type": "app",
+    "user": "abdul"
   }]
 }]
