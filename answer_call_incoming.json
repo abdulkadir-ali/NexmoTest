@@ -2,7 +2,7 @@
   "action": "connect",
   "from": "917406719866",
   "endpoint": [{
-    "type": "phone",
-    "number": "12014792458"
+    "type": "app",
+    "user": "laltu"
   }]
 }]
