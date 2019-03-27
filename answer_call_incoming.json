@@ -1,8 +1,15 @@
-[{
-  "action": "connect",
-  "from": "12014792458",
-  "endpoint": [{
-    "type": "app",
-    "user": "laltu"
-  }]
-}]
+[
+    {
+        "action": "talk",
+        "text": "Thank you for calling Abdul"
+    },
+    {
+        "action": "connect",
+        "endpoint": [
+            {
+                "type": "app",
+                "user": "laltu"
+            }
+        ]
+    }
+]
