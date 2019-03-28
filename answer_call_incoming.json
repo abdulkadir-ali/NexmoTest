@@ -1,9 +1,5 @@
 [
     {
-        "action": "talk",
-        "text": "Thank you for calling Abdul"
-    },
-    {
         "action": "connect",
         "from": "19186000643",
         "endpoint": [
