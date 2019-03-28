@@ -8,7 +8,7 @@
         "from": "19186000643",
         "endpoint": [
             {
-                "type": "phone",
+                "type": "app",
                 "user": "ABDUL2nd"
             }
         ]
