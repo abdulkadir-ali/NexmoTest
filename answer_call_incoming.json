@@ -5,6 +5,8 @@
     },
     {
         "action": "connect",
+        "timeout": "45",
+        "from": "15170669000",
         "endpoint": [
             {
                 "type": "phone",
