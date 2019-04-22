@@ -9,7 +9,8 @@
         "from": "15170669000",
         "endpoint": [
             {
-                "type": "phone",
+                "type": "app",
+                "user": "laltu",
                 "number": "19186000643"
             }
         ]
