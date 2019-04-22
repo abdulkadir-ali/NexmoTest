@@ -5,11 +5,10 @@
     },
     {
         "action": "connect",
-        "from": "917204388368",
         "endpoint": [
             {
-                "type": "phone",
-                "number": "19186000643"
+                "type": "app",
+                "user": "laltu"
             }
         ]
     }
