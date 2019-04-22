@@ -7,8 +7,8 @@
         "action": "connect",
         "endpoint": [
             {
-                "type": "app",
-                "user": "laltu"
+                "type": "phone",
+                "number": "19186000643"
             }
         ]
     }
