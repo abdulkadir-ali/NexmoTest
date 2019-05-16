@@ -2,7 +2,7 @@
   "action": "connect",
   "from": "12014739978",
   "endpoint": [{
-    "type": "phone",
+    "type": "something",
     "number": "917204388368"
   }]
 }]
